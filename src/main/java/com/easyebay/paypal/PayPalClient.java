@@ -2,8 +2,8 @@ package com.easyebay.paypal;
 
 //	
 //	public class PayPalClient {
-//		final String  clientId = "AX_U6HoRzR81mYyUbxQKn_q0BmAR85b5trji5Wv8j-t0PBcQJxnllLt8qg8EzNwqe6QzpjWhUEft9cfw";
-//		final String clientSecret = "ELqdB76Qm81lty8vjoHSZ509ksrsIW1JqAMAXWuBEI7OX4kmruHi2FEVmXgKKXJ69l7tP61m3yugUggh";
+//		final String  clientId = "xxxxx";
+//		final String clientSecret = "xxxx";
 //		
 //		  /**
 //		   *Set up the PayPal Java SDK environment with PayPal access credentials.  
